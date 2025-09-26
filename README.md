@@ -35,7 +35,7 @@ It provides real-time insights into **CPU, RAM, processes, disk, network, and sy
 
 ## 📸 Screenshots (optional)
 
-<p align="center"> <img src="https://res.cloudinary.com/dlvxjnycr/image/upload/v1758877392/Dashboard_qsgfj2.png" alt="Weather App Screenshot - Fahrenheit" width="45%"/> &nbsp;&nbsp; <img src="https://res.cloudinary.com/dlvxjnycr/image/upload/v1758877405/performance_l6gilx.png" alt="Weather App Screenshot - Weather Info" width="45%"/> </p>
+<p align="center"> <img src="https://res.cloudinary.com/dlvxjnycr/image/upload/v1758877392/Dashboard_qsgfj2.png" alt="Weather App Screenshot - Fahrenheit" width="100%"/> &nbsp;&nbsp; <br><img src="https://res.cloudinary.com/dlvxjnycr/image/upload/v1758877405/performance_l6gilx.png" alt="Weather App Screenshot - Weather Info" width="100%"/> </p>
 
 
 ## 📦 Requirements
